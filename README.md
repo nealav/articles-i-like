@@ -1,4 +1,4 @@
-Y'know?
+# Articles
 
 * https://benkurtovic.com/2014/06/01/obfuscating-hello-world.html
 * https://around.com/ariane.html
@@ -16,3 +16,12 @@ Y'know?
 * http://kernelmeltdown.org/blog/hijacking-an-elevator-phone.html
 * https://paul.fawkesley.com/randomize-your-wifi-mac-address-on-ubuntu-1604-xenial/
 * https://blog.cloudflare.com/this-is-strictly-a-violation-of-the-tcp-specification/
+* https://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/
+* https://idea.popcount.org/2016-09-20-strange-loop---ip-spoofing/
+* http://reedbeta.com/blog/programmers-intro-to-unicode/
+* https://www.chrisstucchio.com/blog/2014/mark_cubans_hft_idiocy.html
+* http://h14s.p5r.org/2012/09/0x5f3759df.html?mwh=1
+* https://watermark-cvpr17.github.io
+* https://www.evilsocket.net/2017/08/25/Mini-Post-Hacking-a-Herb-Vaporizer-using-GNU-Linux-and-BLE-raw-commands/#.WZ-OTkpcUXB.reddit
+* https://chrisdown.name/2018/01/02/in-defence-of-swap.html
+* https://softwareengineering.stackexchange.com/questions/49550/which-hashing-algorithm-is-best-for-uniqueness-and-speed
