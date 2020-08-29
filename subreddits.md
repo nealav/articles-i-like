@@ -1,7 +1,7 @@
 # Subreddits
 
 # Career
-* [/r/CSCareerQuestions](https://www.reddit.com/r/CSCareerQuestions]
+* [/r/CSCareerQuestions](https://www.reddit.com/r/CSCareerQuestions)
 * [/r/ExperiencedDevs](https://www.reddit.com/r/ExperiencedDevs)
 * [/r/ITCareerQuestions](https://www.reddit.com/r/ITCareerQuestions)
 * [/r/Jobs](https://www.reddit.com/r/Jobs)
