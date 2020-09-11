@@ -15,6 +15,17 @@
 * /r/Statistics
 * /r/Datasets
 * http://www.j-archive.com/
+* http://www.city-data.com
+* https://www.opensecrets.org/open-data
+* https://ww2db.com
+* https://etfdb.com
+* https://www.datasetlist.com/
+* https://webrobots.io/projects/
+* https://datacurationnetwork.wordpress.com/data/
+* https://dev.socrata.com/data/
+* https://openpaymentsdata.cms.gov/
+* https://console.cloud.google.com/marketplace/browse?filter=solution-type:dataset
+* https://datausa.io/
 
 # APIs
 
