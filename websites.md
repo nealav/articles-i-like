@@ -37,6 +37,12 @@
 * https://stevelosh.com/
 * https://mitchellcash.com/
 * https://kostasbariotis.com/
+* https://jacobdcastro.com/
+* https://www.thomasmaximini.com/
+* https://junhobaik.github.io/
+* https://zeller.io/
+* https://sung.codes/
+
 
 ## 'The Personal Website'-Verse Meta
 
