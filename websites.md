@@ -5,6 +5,10 @@
 * [The Daily WTF](https://thedailywtf.com/)
 * [Clients From Hell](https://clientsfromhell.net/)
 * [Programming Quotes](http://quotes.cat-v.org/programming/)
+* [IOCCC](http://www.ioccc.org/winners.html)
+* [Dwitter](https://www.dwitter.net/top)
+* [Classic Programmer Paintings](http://classicprogrammerpaintings.com/)
+* [Explore Live Cams](https://explore.org/livecams/)
 
 ## Blogs
 
@@ -14,6 +18,7 @@
 * [The HFT Guy](https://thehftguy.com/)
 * [Patrick Collison](https://patrickcollison.com/)
 * [Dr. Gabriel Robins](https://www.cs.virginia.edu/~robins/)
+* [Jason Davies](https://www.jasondavies.com/)
 
 ## 'The Personal Website'-Verse
 
@@ -34,6 +39,7 @@
 * https://kostasbariotis.com/
 
 ## 'The Personal Website'-Verse Meta
+
 * [Building A Kickass Portfolio](https://news.ycombinator.com/item?id=17671490)
 * [What Is The Setup For Your Static blog Generator?](https://news.ycombinator.com/item?id=16346187)
 * [Into The Personal-Website-Verse](https://news.ycombinator.com/item?id=22156868)
@@ -41,3 +47,39 @@
 * http://bettermotherfuckingwebsite.com/
 * https://personalsit.es/
 * https://bernsteinbear.com/favorites/
+
+## Tools
+
+* [Rufus Bootable USB](https://rufus.akeo.ie/)
+* [Open Port Check Tool](http://www.canyouseeme.org/)
+* [Privacy Tools](https://www.privacytools.io/#vpn)
+* [IP Leak](https://ipleak.net/)
+* [DNS Leak](https://www.dnsleaktest.com/)
+* [IPV6 Leak](http://ipv6leak.com/)
+* [Email Leak](http://emailipleak.com/)
+* [DNS Leak](http://dnsleak.com/)
+* [nbViewer](https://nbviewer.jupyter.org/)
+* [Animista](http://animista.net/play/basic)
+* [Raindrop Bookmark Manager](https://raindrop.io/)
+
+## Fun Projects & Websites
+
+* [GitHub Resume Generator](https://github.com/resume/resume.github.com)
+* [Ostagram](http://ostagram.ru/static_pages/lenta?last_days=30&locale=en)
+* [Boobscape](http://boobscape.io/)
+* [Other Side](https://danmana.github.io/other-side/)
+* [Listen To Wikipedia](http://listen.hatnote.com/)
+* [Is It Thursday?](http://isitthursday.org/)
+* [Your Social Media Fingerprint](https://robinlinus.github.io/socialmedia-leak/)
+* [Visual 6502 in JS](http://www.visual6502.org/JSSim/index.html)
+* [intermezzOS](https://intermezzos.github.io/book/)
+* [Wireless Network Mapping](https://wigle.net/)
+* [T-Rex Shower Head](https://www.thingiverse.com/thing:329596)
+* [Cock.li](https://cock.li/)
+* [User Inyerface](https://userinyerface.com/)
+* [See A Satellite](https://james.darpinian.com/satellites/)
+* [Killed By Google](https://killedbygoogle.com/)
+* [Draw All City Roads](https://anvaka.github.io/city-roads/)
+* [Winamp Skins](https://skins.webamp.org/)
+* [The Website Is Down](http://www.thewebsiteisdown.com/)
+* [Motherfucking Website](http://motherfuckingwebsite.com/)
