@@ -35,3 +35,7 @@
 * https://github.com/mpv-player/mpv/commit/1e70e82baa9193f6f027338b0fab0f5078971fbe
 * https://marginalrevolution.com/marginalrevolution/2019/12/work-on-these-things.html
 * https://chartstar.com/blog/analyzing-the-correlation-between-bitcoin-reddit-mentions-and-price/
+* https://codegolf.stackexchange.com/questions/69/golf-you-a-quine-for-great-good/161036#161036
+* https://richblockspoorblocks.com/
+* http://www.justicemap.org/index.php
+* https://pudding.cool/2019/05/people-map/
