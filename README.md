@@ -4,3 +4,4 @@
 * [Subreddits](https://github.com/nealav/things-i-like/blob/master/subreddits.md)
 * [Talks](https://github.com/nealav/things-i-like/blob/master/talks.md)
 * [Youtube](https://github.com/nealav/things-i-like/blob/master/youtube.md)
+* [Datasets & APIs](https://github.com/nealav/things-i-like/blob/master/datasets-and-apis.md)
