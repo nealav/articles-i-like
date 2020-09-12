@@ -25,3 +25,13 @@
 * https://www.evilsocket.net/2017/08/25/Mini-Post-Hacking-a-Herb-Vaporizer-using-GNU-Linux-and-BLE-raw-commands/#.WZ-OTkpcUXB.reddit
 * https://chrisdown.name/2018/01/02/in-defence-of-swap.html
 * https://softwareengineering.stackexchange.com/questions/49550/which-hashing-algorithm-is-best-for-uniqueness-and-speed
+* https://www.theregister.com/data_centre/bofh/
+* https://www.reddit.com/r/linux/comments/9va8jy/linux_performance_observability_tools/
+* http://blog.davidecoppola.com/2016/11/howto-contribute-to-open-source-project-on-github/
+* https://de.dolphin-emu.org/blog/2017/07/30/ubershaders/
+* https://danluu.com/input-lag/
+* https://codegolf.stackexchange.com/questions/88783/build-a-digital-clock-in-conways-game-of-life/111932#111932
+* https://www.famicol.in/sigbovik/
+* https://github.com/mpv-player/mpv/commit/1e70e82baa9193f6f027338b0fab0f5078971fbe
+* https://marginalrevolution.com/marginalrevolution/2019/12/work-on-these-things.html
+* https://chartstar.com/blog/analyzing-the-correlation-between-bitcoin-reddit-mentions-and-price/
