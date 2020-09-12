@@ -19,6 +19,10 @@
 * [Patrick Collison](https://patrickcollison.com/)
 * [Dr. Gabriel Robins](https://www.cs.virginia.edu/~robins/)
 * [Jason Davies](https://www.jasondavies.com/)
+* https://news.ycombinator.com/item?id=22273224
+* https://news.ycombinator.com/item?id=21100377
+* https://www.tableau.com/learn/articles/best-data-visualization-blogs
+* https://www.reddit.com/r/datascience/comments/3msuk6/what_blogs_do_you_read/
 
 ## 'The Personal Website'-Verse
 
