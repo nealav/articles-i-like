@@ -1,4 +1,4 @@
-# Websites
+## Sites
 
 * [Hacker News](https://news.ycombinator.com/)
 * [Thought Works](https://www.thoughtworks.com/radar/a-z)
@@ -9,11 +9,16 @@
 * [Dwitter](https://www.dwitter.net/top)
 * [Classic Programmer Paintings](http://classicprogrammerpaintings.com/)
 * [Explore Live Cams](https://explore.org/livecams/)
+* [StackShare](https://stackshare.io/)
+* [Artima](https://www.artima.com/articles)
+* [ExplainShell](https://explainshell.com/)
+* [Code Golf StackExchange](https://codegolf.stackexchange.com/questions?sort=votes)
 
 ## Blogs
 
 * [The Pudding](https://pudding.cool/)
 * [Martin Fowler](https://martinfowler.com/)
+* [High Scalability](http://highscalability.com/)
 * [Paul Graham](http://www.paulgraham.com/)
 * [The HFT Guy](https://thehftguy.com/)
 * [Patrick Collison](https://patrickcollison.com/)
@@ -46,7 +51,6 @@
 * https://junhobaik.github.io/
 * https://zeller.io/
 * https://sung.codes/
-
 
 ## 'The Personal Website'-Verse Meta
 
