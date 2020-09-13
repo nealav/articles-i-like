@@ -1,4 +1,5 @@
-* [Notes & Guides](https://github.com/nealav/resources#notes-&-guides)
+* [GitHub Resources](https://github.com/nealav/resources/blob/master/github-resources.md)
+* [Notes & Guides](https://github.com/nealav/resources#notes-guides)
 * [Papers](https://github.com/nealav/resources#papers)
 * [Talks](https://github.com/nealav/resources#talks)
 * [Computer Security](https://github.com/nealav/resources#computer-security)
