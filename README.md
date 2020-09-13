@@ -1,3 +1,4 @@
+* [Notes & Guides](https://github.com/nealav/resources#notes-&-guides)
 * [Papers](https://github.com/nealav/resources#papers)
 * [Talks](https://github.com/nealav/resources#talks)
 * [Computer Security](https://github.com/nealav/resources#computer-security)
@@ -9,6 +10,43 @@
 * [Sites](https://github.com/nealav/resources#sites)
 * [YouTube](https://github.com/nealav/resources#youtube)
 
+# Notes & Guides
+
+* [From Nand to Tetris](https://www.nand2tetris.org/)
+* [600 Free Online Courses](https://qz.com/1437623/600-free-online-courses-you-can-take-from-universities-worldwide/)
+* [HN Academy](https://yahnd.com/academy/)
+* [A collection of 150+ "what are the best" dev questions with answers](https://www.reddit.com/r/learnprogramming/comments/3r7lhp/a_collection_of_150_what_are_the_best_dev/)
+* [530+ Free Online CS Courses](https://www.reddit.com/r/learnprogramming/comments/5gr8nw/heres_a_sanitized_list_of_530_free_online/)
+* [Educative](https://www.educative.io/)
+* [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
+* [MIT Subjects](http://catalog.mit.edu/subjects/#bycoursenumbertext)
+* [Notes on Data Structures and Programming Techniques](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html)
+* [Notes on Discrete Math](http://www.cs.yale.edu/homes/aspnes/classes/202/notes.pdf)
+* [Linux Performance](http://www.brendangregg.com/linuxperf.html)
+* [Computer Science Curricula](https://ai.stanford.edu/users/sahami/CS2013/)
+* [Teaching Tree: CS](http://www.teachingtree.co/cs/)
+* [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
+* [A Self-Learning, Modern Computer Science Curriculum](https://functionalcs.github.io/curriculum/)
+* [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+* [Programmer Competency Matrix](http://www.starling-software.com/employment/programmer-competency-matrix.html)
+* [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/)
+* [The Stony Brook Algorithm Repository](http://algorist.com/algorist.html)
+* [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+* [The Twelve-Factor App](https://12factor.net/)
+* [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
+* [The Linux man-pages project](https://www.kernel.org/doc/man-pages/)
+* [AWS Cloud Diagrams](https://www.awsgeek.com/)
+* [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
+* [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+* [Learn X in Y minutes](https://learnxinyminutes.com/)
+* [Courses by Subject](http://www.infocobuild.com/education/audio-video-courses/)
+* [WatchPeopleCode](http://www.watchpeoplecode.com/)
+* [Hackr.io Courses](https://hackr.io/)
+* [MIT CSAIL Courses](http://courses.csail.mit.edu/)
+* [All In One Math Cheat Sheet](https://ourway.keybase.pub/mathematics_cheat_sheet.pdf)
+* [Robotic Manipulation](http://manipulation.csail.mit.edu/)
+* [Building an Operating System for the Raspberry Pi](https://jsandler18.github.io/)
+
 # Papers
 
 * [Programming As Theory Building, Peter Naur](http://pages.cs.wisc.edu/~remzi/Naur.pdf)
@@ -17,11 +55,14 @@
 * [What Every Programmer Should Know About Memory, Ulrich Drepper](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 * [Recursive Functions of Symbolic Expressions and Their Computation by Machine, McCarthy](https://people.cs.umass.edu/~emery/classes/cmpsci691st/readings/PL/LISP.pdf)
 * [The Wisdom of James Mickens](https://mickens.seas.harvard.edu/wisdom-james-mickens)
+* [Awesome Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
+* [Deep Learning Papers Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 * [100 NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
 * [Papers We Love](https://paperswelove.org/)
 
 # Talks
 
+* [Programming Videos](https://www.youtube.com/playlist?list=PLfV1IvxZ9IY3uDSCvWPYjVxEMqvoEYf4X)
 * [USENIX Security '18-Q: Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible? - James Mickens](https://www.youtube.com/watch?v=ajGX7odA87k)
 * [Wat - Gary Bernhardt](https://www.destroyallsoftware.com/talks/wat)
 * [How To Design A Good API And Why It Matters](https://www.youtube.com/watch?v=heh4OeB9A-c&feature=emb_title)
@@ -49,6 +90,7 @@
 * [OWASP](https://owasp.org/)
 * [Reverse Engineering Guide For Beginners](https://news.ycombinator.com/item?id=14537506)
 * [VPN Compare](https://thatoneprivacysite.net/)
+* [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 
 # Machine Learning / Data Science
 
@@ -65,6 +107,12 @@
 * [KDNuggets](https://www.kdnuggets.com/)
 * [MIT 15.003 Data Science Tools](https://github.com/shervinea/mit-15-003-data-science-tools)
 * [fast.ai](https://www.fast.ai/)
+
+# Web Development
+
+* [how to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+* [CSS Tricks](https://css-tricks.com/)
+* [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API)
 
 # Python
 
@@ -87,6 +135,7 @@
 * [Python 3 Module of the Week](https://pymotw.com/3/)
 * [How does Python manage memory?](http://effbot.org/pyfaq/how-does-python-manage-memory.htm)
 * [Python Success Stories](https://www.python.org/about/success/)
+* [Python Design Patterns](https://github.com/faif/python-patterns)
 
 # Subreddits
 
@@ -166,6 +215,18 @@
 
 # Articles
 
+* [The Rise of Worse is Better](https://www.dreamsongs.com/RiseOfWorseIsBetter.html)
+* [UniformAccessPrinciple](https://martinfowler.com/bliki/UniformAccessPrinciple.html)
+* [A Curious Course on Coroutines and Concurrency](http://www.dabeaz.com/coroutines/)
+* [Meta-classes Made Easy](http://www.voidspace.org.uk/python/articles/metaclasses.shtml)
+* [Writing a Discrete Event Simulation: ten easy lessons](https://users.cs.northwestern.edu/~agupta/_projects/networking/QueueSimulation/mm1.html)
+* [A simple technique for handling multiple polymorphism](https://dl.acm.org/doi/abs/10.1145/28697.28732)
+* [Arithmetic and double- dispatching in smalltalk-80](https://www.researchgate.net/publication/239578755_Arithmetic_and_double-_dispatching_in_smalltalk-80)
+* [The C Family of Languages: Interview with Dennis Ritchie, Bjarne Stroustrup, and James Gosling](http://www.gotw.ca/publications/c_family_interview.htm)
+* [How Many Primes Are There?](https://primes.utm.edu/howmany.html)
+* [Amazon Web Services In Plain English](https://expeditedsecurity.com/aws-in-plain-english/)
+* [Computer latency: 1977-2017](https://danluu.com/input-lag/)
+
 * https://benkurtovic.com/2014/06/01/obfuscating-hello-world.html
 * https://around.com/ariane.html
 * https://blog.codinghorror.com/separating-programming-sheep-from-non-programming-goats/
@@ -238,8 +299,9 @@
 
 # APIs
 
-* https://github.com/public-apis/public-apis
-* https://www.programmableweb.com/
+* [public-apis / public-apis](https://github.com/public-apis/public-apis)
+* [n0shake / Public-APIs](https://github.com/n0shake/Public-APIs)
+* [Programmable Web APIs](https://www.programmableweb.com/)
 
 # Sites
 
@@ -261,6 +323,11 @@
 * [High Scalability](http://highscalability.com/)
 * [MLH](https://mlh.io/)
 * [DevPost](https://devpost.com/)
+* [Developer Roadmaps](https://roadmap.sh/)
+* [nLab](https://ncatlab.org/nlab/show/HomePage)
+* [Hackterms](https://www.hackterms.com/)
+* [You want how many years experience?!](https://howoldisit.glitch.me/)
+* [CodeTriage - Help GitHub OS Projects](https://www.codetriage.com/)
 
 ## Blogs
 
