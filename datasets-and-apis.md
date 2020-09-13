@@ -1,4 +1,4 @@
-# Datasets
+## Datasets
 
 * https://github.com/awesomedata/awesome-public-datasets
 * https://github.com/karthikncode/nlp-datasets
@@ -27,7 +27,7 @@
 * https://console.cloud.google.com/marketplace/browse?filter=solution-type:dataset
 * https://datausa.io/
 
-# APIs
+## APIs
 
 * https://github.com/public-apis/public-apis
 * https://www.programmableweb.com/
