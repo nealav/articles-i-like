@@ -39,3 +39,4 @@
 * https://richblockspoorblocks.com/
 * http://www.justicemap.org/index.php
 * https://pudding.cool/2019/05/people-map/
+* https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
