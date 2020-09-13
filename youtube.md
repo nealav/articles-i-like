@@ -1,5 +1,3 @@
-# Youtube
-
 ## Programming
 
 * [sentdex](https://www.youtube.com/user/sentdex)
