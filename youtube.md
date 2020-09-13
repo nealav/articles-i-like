@@ -14,4 +14,4 @@
 * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * [MIT OpenCourseWare](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)
 * [CS50](https://www.youtube.com/c/cs50/featured)
-* [freeCodeCamp]()https://www.youtube.com/c/Freecodecamp/videos
+* [freeCodeCamp](https://www.youtube.com/c/Freecodecamp/videos)
