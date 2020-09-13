@@ -31,6 +31,7 @@
 * [Rob Pike - 'Concurrency Is Not Parallelism'](https://www.youtube.com/watch?v=cN_DpYBzKso)
 * [Brett Slatkin: Fan-in and Fan-out: The crucial components of concurrency - PyCon 2014](https://www.youtube.com/watch?v=CWmq-jtkemY)
 * [code::dive conference 2014 - Scott Meyers: Cpu Caches and Why You Care](https://www.youtube.com/watch?v=WDIkqP4JbkE)
+* [PyConAU 2010: The future is soon!](https://pyvideo.org/pycon-au-2010/pyconau-2010--the-future-is-soon.html)
 
 # Computer Security
 
@@ -64,6 +65,28 @@
 * [KDNuggets](https://www.kdnuggets.com/)
 * [MIT 15.003 Data Science Tools](https://github.com/shervinea/mit-15-003-data-science-tools)
 * [fast.ai](https://www.fast.ai/)
+
+# Python
+
+* [Python Foundation](https://www.python.org/)
+* [Python Wiki](https://wiki.python.org/moin/)
+* [Python3 Cheatsheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)
+* [Hitchhiker's Guide to Python](https://docs.python-guide.org/)
+* [Awesome Python](https://python.libhunt.com/)
+* [Python Cheahttps://sinxloud.com/python-cheat-sheet-beginner-advanced/#6-python-numpy-cheat-sheet-dataquesttsheet](https://www.pythonsheets.com/)
+* [awesome-python](https://github.com/vinta/awesome-python)
+* [Matplotlib Tips and Demos](https://nbviewer.jupyter.org/urls/gist.githubusercontent.com/Jwink3101/e6b57eba3beca4b05ec146d9e38fc839/raw/f486ca3dcad44c33fc4e7ddedc1f83b82c02b492/Matplotlib_Cheatsheet)
+* [More Cheatsheets](https://sinxloud.com/python-cheat-sheet-beginner-advanced/)
+* [PEPs](https://www.python.org/dev/peps/)
+* [/r/LearnPython](https://www.reddit.com/r/learnpython/wiki/index)
+* [PyVideo](https://pyvideo.org/)
+* [Understanding Python GIL](https://www.dabeaz.com/python/UnderstandingGIL.pdf)
+* [PyCon](https://us.pycon.org/)
+* [Contracts in Python](https://www.artima.com/intv/pycontract.html)
+* [Guide to Unicode on Python](https://lucumr.pocoo.org/2013/7/2/the-updated-guide-to-unicode/)
+* [Python 3 Module of the Week](https://pymotw.com/3/)
+* [How does Python manage memory?](http://effbot.org/pyfaq/how-does-python-manage-memory.htm)
+* [Python Success Stories](https://www.python.org/about/success/)
 
 # Subreddits
 
@@ -233,13 +256,17 @@
 * [Artima](https://www.artima.com/articles)
 * [ExplainShell](https://explainshell.com/)
 * [Code Golf StackExchange](https://codegolf.stackexchange.com/questions?sort=votes)
+* [TIOBE](https://www.tiobe.com/tiobe-index//)
+* [The Pudding](https://pudding.cool/)
+* [High Scalability](http://highscalability.com/)
+* [MLH](https://mlh.io/)
+* [DevPost](https://devpost.com/)
 
 ## Blogs
 
-* [The Pudding](https://pudding.cool/)
 * [Martin Fowler](https://martinfowler.com/)
-* [High Scalability](http://highscalability.com/)
 * [Paul Graham](http://www.paulgraham.com/)
+* [Lambda the Ultimate](http://lambda-the-ultimate.org/)
 * [The HFT Guy](https://thehftguy.com/)
 * [Patrick Collison](https://patrickcollison.com/)
 * [Dr. Gabriel Robins](https://www.cs.virginia.edu/~robins/)
@@ -271,9 +298,6 @@
 * https://junhobaik.github.io/
 * https://zeller.io/
 * https://sung.codes/
-
-## 'The Personal Website'-Verse Meta
-
 * [Building A Kickass Portfolio](https://news.ycombinator.com/item?id=17671490)
 * [What Is The Setup For Your Static blog Generator?](https://news.ycombinator.com/item?id=16346187)
 * [Into The Personal-Website-Verse](https://news.ycombinator.com/item?id=22156868)
