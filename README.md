@@ -1,10 +1,13 @@
-* [Articles](https://github.com/nealav/things-i-like/blob/master/articles.md)
-* [Papers](https://github.com/nealav/things-i-like/blob/master/papers.md)
-* [Websites](https://github.com/nealav/things-i-like/blob/master/websites.md)
-* [Subreddits](https://github.com/nealav/things-i-like/blob/master/subreddits.md)
-* [Talks](https://github.com/nealav/things-i-like/blob/master/talks.md)
-* [Youtube](https://github.com/nealav/things-i-like/blob/master/youtube.md)
-* [Datasets & APIs](https://github.com/nealav/things-i-like/blob/master/datasets-and-apis.md)
+* [Papers](https://github.com/nealav/resources#papers)
+* [Talks](https://github.com/nealav/resources#talks)
+* [Computer Security](https://github.com/nealav/resources#computer-security)
+* [ML/DS](https://github.com/nealav/resources#machine-learning--data-science)
+* [Subreddits](https://github.com/nealav/resources#subreddits)
+* [Articles](https://github.com/nealav/resources#articles)
+* [Datasets](https://github.com/nealav/resources#datasets)
+* [APIs](https://github.com/nealav/resources#apis)
+* [Sites](https://github.com/nealav/resources#sites)
+* [YouTube](https://github.com/nealav/resources#youtube)
 
 # Papers
 
